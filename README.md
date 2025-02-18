@@ -1,7 +1,7 @@
 # Exploratory Data Analysis and Data Cleaning Using SQL
 
 ## Overview
-This is a data analysis project centered around the Apple App Store. The dataset covers information about apps available on the Apple App Store, including details such as app names, sizes in bytes, ratings, types of apps, number of supporting devices, number of supporting languages, and an overview of each application's description.
+This is a data analysis project centered around the Apple App Store. The dataset covers information about apps available on the Apple App Store, including details such as app names, sizes in bytes, ratings, types of apps, number of supporting devices, number of supporting languages, and an overview of each application's description. Dataset link: https://drive.google.com/file/d/1_uOkYHRw0X0OH2fUn_5aJetCQ4zpmYka/view?usp=drive_link
 
 ## Key Insights
 ### Paid vs Free Apps
